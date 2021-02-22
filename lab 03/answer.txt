@@ -1,0 +1,5 @@
+Bonus Question: should the average percentage attendance be 50%? Explain
+
+No. 
+
+Discuss about how the random-number-genrator works in Java. 
